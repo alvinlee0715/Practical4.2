@@ -25,6 +25,7 @@ package="com.example.android.dessertclicker">
     android:roundIcon="@mipmap/ic_dessert_clicker_round"
     android:supportsRtl="true"
     android:theme="@style/AppTheme">
+
     <activity android:name="com.example.android.dessertclicker.MainActivity">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
